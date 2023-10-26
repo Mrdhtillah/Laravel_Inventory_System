@@ -2,6 +2,7 @@
 
 ## Main Code 
 - In Master branch
+- https://github.com/Mrdhtillah/Laravel_Inventory_System/tree/master
 
 ## Register Page 
 <img src="./img/register.png" width="500">
