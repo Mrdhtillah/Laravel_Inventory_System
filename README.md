@@ -1,5 +1,8 @@
 # Laravel Inventory Management System
 
+## Main Code 
+- In Master branch
+
 ## Register Page 
 <img src="./img/register.png" width="500">
 
