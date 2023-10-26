@@ -12,6 +12,9 @@
 ## View Page 
 <img src="./img/view.png" width="500">
 
+## Create Page 
+<img src="./img/create.png" width="500">
+
 ## Edit Page 
 <img src="./img/edit.png" width="500">
 
